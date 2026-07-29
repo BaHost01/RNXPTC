@@ -1,0 +1,10 @@
+{
+    "ffa": false,
+    "boxes": true,
+    "tracers": true,
+    "nametags": true,
+    "stream_proof": true,
+    "topmost": true,
+    "hitbox_idx": 2,
+    "boxstyle_idx": 2
+}
